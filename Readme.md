@@ -8,6 +8,11 @@ Hand tracking and gesture recognition
 Full-body pose estimation
 Multi-face tracking capabilities
 
+
+## LinkedIn Post (Project Overview video): 
+
+https://www.linkedin.com/posts/ac-gupta-dev_computervision-python-mediapipe-activity-7291791217183404032-h0fp?utm_source=share&utm_medium=member_desktop
+
 # Key Features
 
 **Face Detection & Mesh**
@@ -61,7 +66,6 @@ Interactive learning systems
 Gesture-controlled interfaces
 Interactive displays
 Augmented reality applications
-
 
 
 **Technical Requirements**
