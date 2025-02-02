@@ -81,11 +81,11 @@ Performance optimization
 Multi-camera support
 
 ## Screenshots
-##### i. Home Page
-![1  Home](https://github.com/anoopgupta112/Mediapipe-Utility/blob/master/screenshots/face_landmark.png)
-##### i. Home Page
-![1  Home](https://github.com/anoopgupta112/Flower-Classification/blob/master/screenshots/face_mesh.png)
-##### i. Home Page
-![1  Home](https://github.com/anoopgupta112/Flower-Classification/blob/master/screenshots/hand_landmark.png)
-##### i. Home Page
-![1  Home](https://github.com/anoopgupta112/Flower-Classification/blob/master/screenshots/pose_detection.png)
+##### i. Face Landmark
+![1  Face Landmark](https://github.com/anoopgupta112/Mediapipe-Utility/blob/master/screenshots/face_landmark.png)
+##### i. Face Mesh
+![1  Face Mesh](https://github.com/anoopgupta112/Mediapipe-Utility/blob/master/screenshots/face_mesh.png)
+##### i. Hand Landmark
+![1  Hand Landmark](https://github.com/anoopgupta112/Mediapipe-Utility/blob/master/screenshots/hand_landmark.png)
+##### i. Pose Detection
+![1  Pose Detection](https://github.com/anoopgupta112/Mediapipe-Utility/blob/master/screenshots/pose_detection.png)
